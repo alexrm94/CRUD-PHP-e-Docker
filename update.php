@@ -61,7 +61,8 @@ if (isset($_GET['id'])) {
         </html> 
     <?php
     } else{ 
-        header('Location: view.php');
+        header('Location: index.php'); //redireciona o usuário para a página view.php
+        exit;
     } 
 }
 ?> 

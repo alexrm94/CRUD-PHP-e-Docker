@@ -42,7 +42,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `firstname`, `lastname`, `email`, `gender`, `password`) VALUES
 (1, 'Alex', 'Martins', 'tsdfsj@gig.com', 'Masculino', ''),
-(3, 'asdas', 'asdsad', 'addfsd@soaf.com', 'Male', 'fadasdad');
+(2, 'asdas', 'asdsad', 'addfsd@soaf.com', 'Male', 'fadasdad');
 
 --
 -- Índices para tabelas despejadas
